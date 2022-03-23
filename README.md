@@ -2,13 +2,6 @@
 
 Welcome to my GitHub! I'm Juel, a Molecular Biology graduate who's transitioning into Software Engineering. I am building a solid foundation in both frontend and backend technologies and languages. 
 
-### ✔️ Tecnology
-- JavaScript
-- ReactJS
-- Redux
-- Postgress
-- 
-
 ### ☕ Get in touch
 - LinkedIn: <a href = "www.linkedin.com/in/guillermo-jofre">Guillermo Jofre</a>
 - Website: https://vercel.com/jofregf/portfolio

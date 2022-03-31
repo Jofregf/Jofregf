@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm Guillermo, a Molecular Biology graduate who's transitioning into Software Engineering. I am building a solid foundation in both frontend and backend technologies and languages. 
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "www.linkedin.com/in/guillermo-jofre">Guillermo Jofre</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/guillermo-jofre">Guillermo Jofre</a>
 - Website: https://portfolio-j0euahn7z-jofregf.vercel.app/
 
 <h3 align="left">Languages and Tools:</h3>

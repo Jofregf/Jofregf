@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub! I'm Guillermo, a Molecular Biology graduate who's transitioning into Software Engineering. I am building a solid foundation in both frontend and backend technologies and languages. 
+Bienvenidos a mi GitHub, mi nombre es Guillermo, hace tiempo me recibí de biologo molecular, carrera que dejé debido a que los modelos experimentales cada día se contradecían más con mi etica personal (uso de animales de experimentación). Posterior a eso descubri un gran amor, la docencia, junto a mis alumons aprendiamos ambos, ellos la materia y otras charlas que impartiamos, y yo de ellos sus ideas, puntos de vista, alegría e ingenio. Entre al mundo de la programación casi por accidente, quise hacer una pagina web propia, y me fui encontrando que para solucionar algo debía ir profundizando más en este mundo, MARAVILLOSO ACCIDENTE!!!! Adoro los desafios de ir aprendiendo todo el tiempo, pero más aún cuando puedo enseñar lo aprendido!!!!
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/guillermo-jofre">Guillermo Jofre</a>

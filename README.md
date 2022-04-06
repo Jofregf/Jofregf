@@ -57,3 +57,4 @@ Welcome to my GitHub! I'm Guillermo, a Molecular Biology graduate who's transiti
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jofregf&theme=ayu-mirage&show_icons=true)
+

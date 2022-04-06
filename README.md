@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm Guillermo, a Molecular Biology graduate who's transiti
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/guillermo-jofre">Guillermo Jofre</a>
 - Website: https://portfolio-j0euahn7z-jofregf.vercel.app/
-- <a href="mailto:jofregf@gmail.com" >email&nbsp;&nbsp;&nbsp;</a>
+- <a href="mailto:jofregf@gmail.com" >email&nbsp;&nbsp;</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

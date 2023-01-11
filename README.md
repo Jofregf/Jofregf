@@ -12,15 +12,10 @@ Full-Stack Developer (JavaScript, Node Js, React Js, Redux)<br>🌱 I’m curren
 
 <br/>  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jofregf&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jofregf&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 
 

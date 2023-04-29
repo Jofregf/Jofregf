@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guillermo Jofre</h1>
 # 💫 About Me:
-Full-Stack Developer (JavaScript, Node Js, React Js, Redux)<br>🌱 I’m currently learning Java and Spring<br>💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize, Java, Spring<br>
+Developer (JavaScript, Node Js, React Js, Redux, Java, Spring)<br>🌱 I’m currently learning Java and Spring<br>💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize, Java, Spring<br>
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guillermo Jofre</h1>
-# 💫 About Me:
+💫 About Me:
 Developer (JavaScript, Node Js, React Js, Redux, Java, Spring)
 🌱<br>💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize, Java, Spring<br>
 

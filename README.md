@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillermo Jofre</h1>
 💫 About Me:
 Developer (Java, Spring, JavaScript, Node Js, React Js, Redux)
-🌱<br>💬 Ask me about  Java, Spring, JavaScriptNode Js, Express, PostgreSQL, Sequalize,<br>
+🌱<br>💬 Ask me about  Java, Spring, JavaScript, Node Js, Express, PostgreSQL, Sequalize,<br>
 
 
 ## 🌐 Socials:

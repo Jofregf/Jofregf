@@ -21,8 +21,8 @@ Developer (Java, Spring, JavaScript, Node Js, React Js, Redux)
 <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" width="120" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" width="90" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" width="70" height="auto"></a>
-<a href="#"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" width="70" height="auto"></a>
-<a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" width="100" height="auto"></a>
+<a href="#"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" width="80" height="auto"></a>
+<a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" width="110" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white" width="120" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" width="120" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" width="120" height="auto"></a>

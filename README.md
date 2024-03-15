@@ -29,8 +29,8 @@ Developer (Java, Spring, JavaScript, Node Js, React Js, Redux)
 <a href="#"><img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" width="85" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" width="85" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" width="90" height="auto"></a>
-<a href="#"><img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" width="80" height="auto"></a>
-<a href="#"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white" width="80" height="auto"></a>
+<a href="#"><img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" width="100" height="auto"></a>
+<a href="#"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white" width="100" height="auto"></a>
 
 <br/>  
 

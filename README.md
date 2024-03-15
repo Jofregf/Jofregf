@@ -15,7 +15,7 @@ Developer (Java, Spring, JavaScript, Node Js, React Js, Redux)
 <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" width="120" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" width="92" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" width="120" height="auto"></a>
-<a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" width="120" height="auto"></a>
+<a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" width="92" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" width="120" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" width="120" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" width="120" height="auto"></a>

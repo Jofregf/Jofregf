@@ -5,7 +5,7 @@ Developer (Java, Spring, JavaScript, Node Js, React Js, Redux)
 
 
 ## 🌐 Socials:
-[![LinkedIn]() 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-jofre/) 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="50" height="auto"></a>
 
 # 💻 Tech Stack:

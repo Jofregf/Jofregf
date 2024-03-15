@@ -19,7 +19,7 @@ Developer (Java, Spring, JavaScript, Node Js, React Js, Redux)
 <a href="#"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" width="110" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" width="100" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" width="120" height="auto"></a>
-<a href="#"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" width="92" height="auto"></a>
+<a href="#"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" width="50" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" width="92" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" width="120" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" width="120" height="auto"></a>

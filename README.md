@@ -11,7 +11,7 @@ Developer (Java, Spring, JavaScript, Node Js, React Js, Redux)
 </a>
 
 # 💻 Tech Stack:
-<a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" width="50" height="auto"></a>
+<a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" width="48" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" width="120" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" width="92" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" width="120" height="auto"></a>

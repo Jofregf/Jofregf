@@ -23,7 +23,7 @@ Developer (Java, Spring, JavaScript, Node Js, React Js, Redux)
 <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" width="110" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white" width="113" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" width="120" height="auto"></a>
-<a href="#"><img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white" width="48" height="auto"></a>
+<a href="#"><img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white" width="120" height="auto"></a>
 <br/>  
 
 ### ✍️ Random Dev Quote

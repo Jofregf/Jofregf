@@ -40,11 +40,11 @@ Feel free to explore my repositories or reach out if you'd like to discuss data,
 # 💻 Tech Stack:
 <a href="#"><img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white" width="90" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/Numpy-013243.svg?style=flat&logo=numpy&logoColor=white" width="90" height="auto"></a>
-<a href="#"><img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white" width="80" height="auto"></a>
-<a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" width="92" height="auto"></a>
-<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white" width="130" height="auto"></a>
+<a href="#"><img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white" width="90" height="auto"></a>
+<a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" width="90" height="auto"></a>
+<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white" width="90" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat&logo=powerbi&logoColor=black" width="90" height="auto"></a>
-<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=flat&logo=microsoft-excel&logoColor=white" width="120" height="auto"></a>
+<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=flat&logo=microsoft-excel&logoColor=white" width="90" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" width="48" height="auto"></a>
 <a href="#"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" width="92" height="auto"></a>
 

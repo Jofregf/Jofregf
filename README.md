@@ -1,7 +1,34 @@
-<h1 align="center">Hi 👋, I'm Guillermo Jofre</h1>
-💫 About Me:
-Developer (Java, Spring, JavaScript, Node Js, React Js, Redux)
-🌱<br>💬 Ask me about  Java, Spring, JavaScript, Node Js, Express, PostgreSQL, Sequalize,<br>
+## 👋 About Me
+
+I'm a **Data Analyst / Business Intelligence Analyst** with a strong background in **Python, SQL, and Power BI**, focused on transforming data into actionable business insights.
+
+I have experience working on end-to-end analytics projects, including data cleaning, exploratory analysis, feature engineering, dashboarding, and executive-level reporting.
+
+My background in scientific research and data-driven problem solving allows me to approach business questions with analytical rigor and clarity.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Data Analysis:** Python (Pandas, NumPy), SQL  
+- **Business Intelligence:** Power BI (DAX, Data Modeling, Dashboards)  
+- **Visualization:** Power BI, Matplotlib  
+- **Tools:** Git, GitHub, Jupyter Notebook  
+
+---
+
+## 📊 What I Work On
+
+- Sales & business performance analysis  
+- Customer behavior and segmentation  
+- Operational and logistics analytics  
+- Dashboard design for decision-making  
+
+---
+
+## 📬 Get in Touch
+
+Feel free to explore my repositories or reach out if you'd like to discuss data, analytics, or BI projects.
 
 
 ## 🌐 Socials:
